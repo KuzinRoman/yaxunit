@@ -12,7 +12,7 @@
 
 ### [Исходники расширения yaxunit](./src/cfe)
 
-#### [Файлы расширения на начало занятие](./src/cfe/start) /src/cfe/start актуальный релиз по ссылке https://github.com/bia-technologies/yaxunit/releases
+#### [Файлы расширения на начало занятия](./src/cfe/start) /src/cfe/start актуальный релиз по ссылке https://github.com/bia-technologies/yaxunit/releases
 
 #### [Файлы расширения к концу занятия с написанными тестами](./src/cfe/end) /src/cfe/end
 
